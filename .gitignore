@@ -1,0 +1,36 @@
+resources/dataset/Audio
+resources/dataset/Annotations/*.csv
+resources/dataset/Annotations/Un-processed
+resources/dataset/Scream\ Detection\ Dataset/*
+resources/dataset/Sonic\ Visualizer\ Files/*
+resources/dataset/YTDownloads
+resources/dataset/youtube-dl\ command.txt
+Instrument-classification
+resources/dataset/Annotations/processed/
+resources/dataset/Annotations/labelled/
+resources/dataset/Annotations/timestamps/
+resources/dataset/Annotations/Un-processed/
+/KNN/input
+.venv
+.vscode
+/resources/working_data
+.DS_Store
+resources/.DS_Store
+resources/dataset/.DS_Store
+resources/dataset/Annotations/.DS_Store
+resources/dataset/blocked_audio
+*.npy
+ai-research-code
+models
+pretrained_models
+resources/fromserver
+CNN/data
+*.pyc
+Miniconda3-latest-Linux-x86_64.sh
+scream_detection
+resources/.DS_Store
+resources/dataset/.DS_Store
+resources/dataset/blocked_audio
+classifier-comparison/CNN/data
+classifier-comparison/CNN/trained_models
+resources/dataset/Annotations/final/annotation_with_audio_file.csv
