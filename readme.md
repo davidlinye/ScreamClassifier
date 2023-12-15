@@ -12,6 +12,12 @@ To simulate the results of our vocal_classification.ipynb, we provide instructio
 
 The used dataset consists of three songs from the above mentioned repository + our own annotated dataset of twenty new songs.
 
+Our dataset can be downloaded from https://drive.google.com/drive/folders/1oVt896oSAvDJbEXi9pXESOaZs2_EqYZa?usp=drive_link.
+
+If the above link doesn't work, the songs can be manually downloaded from the YouTube playlist: https://www.youtube.com/playlist?list=PLrtpkXmnxmmeP07Y5SY0o9fc8zy7foBwI
+
+When running the code, the dataset of audio files should be present in the folder ./resources/dataset/Audio
+
 ## Instructions for simulating vocal_classification.ipynb with the Scream Detection repo
 
 Instructions for running (not training!) the model on music files
